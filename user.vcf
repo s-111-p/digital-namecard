@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Page;Siddharth;;;
-FN: Siddharth  Page 
+N:Sukumaran;Sujith;;;
+FN: Sujith  Sukumaran 
 ORG:Indo-MIM Ltd.;
-TITLE:Sales Engineer\nEurope Region
-EMAIL;type=INTERNET;type=WORK;type=pref:siddharth.p@indo-mim.com
-TEL;type=WORK;type=VOICE:+49 172 862 5850
+TITLE:Manager-Sales & Marketing\nEurope Region
+EMAIL;type=INTERNET;type=WORK;type=pref:sujith.s@indo-mim.com
+TEL;type=WORK;type=VOICE:+49 152 5321 2083
 item1.ADR;type=WORK;type=pref:;;Indian Business Center\nOskar Lapp Str. 2;;;70565;Stuttgart
 item1.X-ABADR:sg
 item2.URL;type=pref:indo-mim.com
